@@ -1,5 +1,5 @@
 # :rocket: Applied Data Science Capstone
-This Capstone is the 10th (final) course in [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) specialization, and it actually summarizes in the form of project all materials that have been learned during this specialization.
+This capstone project represents the final course in the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science). It integrates and applies all the knowledge and skills acquired throughout the program, demonstrating a comprehensive understanding of data science concepts through a practical project.  
 ## :page_facing_up: Project Background
 SpaceX is the most successful company of the commercial space 
 age, making space travel affordable. The company advertises Falcon 
